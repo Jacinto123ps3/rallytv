@@ -2,4 +2,4 @@
 #EXTINF:-1 rallytv
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: RALLY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="ES | DEPORTES",ES: RALLY TV
-https://freqsyndlin.rally.tv/583/hls/master
+https://freqsyndlin.rally.tv/583/hls/master/playlist.m3u8
